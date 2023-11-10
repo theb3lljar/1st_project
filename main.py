@@ -1,5 +1,4 @@
-a = 10
-b = 12
-print(a+b)
-print("hello")
-vbjfjfjfj
+a = 6
+c = 77
+print(a+c)
+print("bye")
